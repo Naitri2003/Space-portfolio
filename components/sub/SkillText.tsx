@@ -11,7 +11,7 @@ const SkillText = () => {
           variants={slideInFromTop}
           className="Welcome-box py-[8px] px-[7px] border border-[#1a3c518b] opacity-[0.9]"
         >
-          <SparklesIcon className="text-[#0adfea] mr-[10px] h-5 w-5" />
+          <SparklesIcon className="text-[#c594e3] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
             Think better with Next js 13
           </h1>

@@ -17,7 +17,7 @@ const HeroContent = () => {
           variants={slideInFromTop}
           className="Welcome-box py-[8px] px-[7px] border border-[#0e6666eb] opacity-[0.2]"
         >
-          <SparklesIcon className="text-[#19d9e0] mr-[10px] h-5 w-5" />
+          <SparklesIcon className="text-[#c594e3] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
             Fullstack Developer Portfolio
           </h1>
